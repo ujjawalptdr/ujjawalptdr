@@ -1,8 +1,12 @@
 <h1 align="center">👋 Hi, I'm Ujjawal Patidar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Problem Solver</h3>
+<!-- <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Problem Solver</h3> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <a herf="#">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=A45DFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver;Crafting+Clean,+Scalable+Code;Building+Modern+Web+Experiences;Exploring+AI+and+Next-Gen+Tech" alt="Typing SVG" />
+
+
+  </a>
 </p>
 
 <!-- <p align="center">
@@ -24,7 +28,9 @@ Currently exploring **AI integration** and building innovative web applications 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,redux,tailwind,nodejs,express,mongodb,nextjs,figma,git,github,postman,mysql,npm,vscode&perline=10&link=none" height="200"/>
+  <a href="#">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,redux,tailwind,nodejs,express,mongodb,nextjs,figma,git,github,postman,mysql,npm,vscode&perline=10" height="200"/>
+  </a>
 </p>
 
 <p align="center">
@@ -33,6 +39,7 @@ Currently exploring **AI integration** and building innovative web applications 
   <img src="https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat&logo=fastapi&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/-Agile%20Methodologies-0052CC?style=flat&logo=jira&logoColor=white" alt="Agile"/>
   <img src="https://img.shields.io/badge/Vesion%20Control-0052CC?style=flat&logo=git&logoColor=white" alt="git"/>
+
 </p>
 
 </br>
@@ -56,7 +63,9 @@ Currently exploring **AI integration** and building innovative web applications 
 
 🛠️  **Tech Stack** 
 <p align="center">
+  <a href="#">
   <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nextjs,git,github&perline=20" height="55"/>
+  </a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat&logo=fastapi&logoColor=white" alt="REST APIs"/>
