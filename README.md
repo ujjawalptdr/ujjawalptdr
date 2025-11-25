@@ -48,7 +48,7 @@ Currently exploring **AI integration** and building innovative web applications 
 
 ## 💼 Professional Experience
 
-### **Full Stack Developer Intern** | [RentPrompts](https://rentprompts.com)
+### **Full Stack Developer Intern** | <a href="https://rentprompts.com" target="_blank">RentPrompts</a>
 **IT Product & Services** | *July 2025 - October 2025*
 
 🔹 **Key Contributions:**
