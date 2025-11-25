@@ -24,7 +24,7 @@ Currently exploring **AI integration** and building innovative web applications 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,redux,tailwind,nodejs,express,mongodb,nextjs,figma,git,github,postman,mysql,npm,vscode&perline=10" height="200"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,redux,tailwind,nodejs,express,mongodb,nextjs,figma,git,github,postman,mysql,npm,vscode&perline=10&link=none" height="200"/>
 </p>
 
 <p align="center">
